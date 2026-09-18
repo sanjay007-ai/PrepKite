@@ -1,0 +1,18 @@
+{
+  "short_name": "PrepKite",
+  "orientation": "portrait-primary",
+  "theme_color": "#0a0c10",
+  "description": "Personalized interview preparation for your role, company, skills, projects and progress.",
+  "display": "standalone",
+  "name": "PrepKite \u2014 Interview Preparation",
+  "icons": [
+    {
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9Ijk2IiBmaWxsPSIjMTExMTExIi8+PHRleHQgeD0iMjU2IiB5PSIzMTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjE4MCIgZm9udC13ZWlnaHQ9IjgwMCIgZmlsbD0id2hpdGUiPlBLPC90ZXh0Pjwvc3ZnPg=="
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0a0c10"
+}

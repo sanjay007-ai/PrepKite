@@ -1,0 +1,29 @@
+{
+  "name": "prepkite-interview-prep",
+  "version": "1.0.0",
+  "description": "A professional interview preparation platform offering role- and company-specific practice, AI mock interviews, coaching, assessments, readiness insights, and personalized improvement plans.",
+  "type": "module",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "vite",
+    "build": "vite build",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck && npm run build"
+  },
+  "dependencies": {
+    "lucide-react": "0.577.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "react-router-dom": "^7.13.0",
+    "tailwind-merge": "^3.5.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^6.0.0",
+    "tailwindcss": "^4.2.0",
+    "typescript": "^5.9.0",
+    "vite": "^8.0.0"
+  }
+}
